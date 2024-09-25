@@ -35,7 +35,7 @@ while(True):
             print('***************\n')
 
     else:
-        print('INVALID INPUT!\nTry Again!\n')
+        print('INVALID INPUT! Try Again!\n')
 
     choice = input('DO YOU WANT TO PLAY AGAIN(Y/N)? ')
     if(choice=='N'):        
